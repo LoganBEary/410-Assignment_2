@@ -1,195 +1,110 @@
 Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.867; Version 2009; 64bit' Language: 'en' Physical Memory: 32717 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-/Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/MacOS/Unity
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-/Users/loganlevitre/Desktop/Unity/CIS-410/410-Assignment_2/Assignment_2
+C:/Users/Josh/Unity Projects/CIS 410/Assignment_2/410-Assignment_2/Assignment_2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-51711
-Successfully changed project path to: /Users/loganlevitre/Desktop/Unity/CIS-410/410-Assignment_2/Assignment_2
-/Users/loganlevitre/Desktop/Unity/CIS-410/410-Assignment_2/Assignment_2
+61235
+Successfully changed project path to: C:/Users/Josh/Unity Projects/CIS 410/Assignment_2/410-Assignment_2/Assignment_2
+C:/Users/Josh/Unity Projects/CIS 410/Assignment_2/410-Assignment_2/Assignment_2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 60.98 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 34.89 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.1f1 (77a89f25062f)
-[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path /Users/loganlevitre/Desktop/Unity/CIS-410/410-Assignment_2/Assignment_2/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Josh/Unity Projects/CIS 410/Assignment_2/410-Assignment_2/Assignment_2/Assets
 GfxDevice: creating device client; threaded=0
-2021-04-07 15:18:53.271 Unity[38144:197007] Color LCD preferred device: Intel(R) UHD Graphics 630 (low power)
-2021-04-07 15:18:53.271 Unity[38144:197007] Metal devices available: 2
-2021-04-07 15:18:53.271 Unity[38144:197007] 0: AMD Radeon Pro 5500M (high power)
-2021-04-07 15:18:53.271 Unity[38144:197007] 1: Intel(R) UHD Graphics 630 (low power)
-2021-04-07 15:18:53.271 Unity[38144:197007] Using device AMD Radeon Pro 5500M (high power)
-Initializing Metal device caps: AMD Radeon Pro 5500M
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   
+    VRAM:     8043 MB
+    Driver:   27.21.14.6109
 Initialize mono
-Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/Managed'
-Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = '/Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56144
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56072
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: /Applications/Unity/Hub/Editor/2020.3.1f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
-Register platform support module: /Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
-Registered in 0.002306 seconds.
-Native extension for OSXStandalone target not found
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001730 seconds.
+Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 31.79 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 31.44 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.282 seconds
+- Completed reload, in  0.836 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005072 seconds.
+Registered in 0.002063 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
+Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.944 seconds
+- Completed reload, in  0.642 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launching external process: /Applications/Unity/Hub/Editor/2020.3.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
-Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1620 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 207.8 MB.
-System memory in use after: 207.9 MB.
+Unloading 1621 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 148.8 MB.
+System memory in use after: 148.9 MB.
 
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2052.
-Total: 2.055491 ms (FindLiveObjects: 0.202389 ms CreateObjectMapping: 0.053391 ms MarkObjects: 1.686644 ms  DeleteObjects: 0.112254 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Animation/Animation/Gargoyle@Idle.fbx
-  artifactKey: Guid(475d389e70692ca4abb09caca1aef9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animation/Animation/Gargoyle@Idle.fbx using Guid(475d389e70692ca4abb09caca1aef9ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a15e7beef9bde5907e5cd76d22168663') in 1.686774 seconds
-  Import took 1.692658 seconds .
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2053.
+Total: 1.529600 ms (FindLiveObjects: 0.162800 ms CreateObjectMapping: 0.036000 ms MarkObjects: 1.267000 ms  DeleteObjects: 0.063200 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000259 seconds.
-  path: Assets/Animation/Animation/John@Idle.fbx
-  artifactKey: Guid(873202b19b03a8a4e976f0b15d21cd24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animation/Animation/John@Idle.fbx using Guid(873202b19b03a8a4e976f0b15d21cd24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fef3f58ad152d4f127e7833e16538e0') in 0.059207 seconds
-  Import took 0.062704 seconds .
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6374019befeac6ce670f13ba9960efb') in 0.007321 seconds
+  Import took 0.009503 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/Animation/Animation/Ghost@Walk.fbx
-  artifactKey: Guid(2017cad317b564c409a9e5bd02341461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animation/Animation/Ghost@Walk.fbx using Guid(2017cad317b564c409a9e5bd02341461) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f9fc1a4461e12a06181c6fec477006a') in 0.022115 seconds
-  Import took 0.025050 seconds .
+  Time since last request: 6.627644 seconds.
+  path: Assets/Josh
+  artifactKey: Guid(33a18b445985d09428e64f270240dc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Josh using Guid(33a18b445985d09428e64f270240dc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e74d74dafb3e0f6ca55c1da26fec0fe') in 0.004844 seconds
+  Import took 0.007076 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/Animation/Animation/John@Walk.fbx
-  artifactKey: Guid(da1625e6a723d1745a6ba7f6565a130f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animation/Animation/John@Walk.fbx using Guid(da1625e6a723d1745a6ba7f6565a130f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7507c9d76224dacabc2e37090cb74839') in 0.022815 seconds
-  Import took 0.026445 seconds .
+  Time since last request: 8.372271 seconds.
+  path: Assets/Logan
+  artifactKey: Guid(ca4332c75401cea43b9a0fe1e6e484f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Logan using Guid(ca4332c75401cea43b9a0fe1e6e484f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b002e782281ce649c3a310363c783df') in 0.005574 seconds
+  Import took 0.007984 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/Animation/Animation/Ghost@Shower.fbx
-  artifactKey: Guid(4c7b6999390a2c24498d13e4084b200f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animation/Animation/Ghost@Shower.fbx using Guid(4c7b6999390a2c24498d13e4084b200f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5587c09746290e70e74ca64066e36774') in 0.022931 seconds
-  Import took 0.025647 seconds .
+  Time since last request: 7.242413 seconds.
+  path: Assets/Hans
+  artifactKey: Guid(011c6a1ce72c9854e86737a96c9b85c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hans using Guid(011c6a1ce72c9854e86737a96c9b85c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed4906cb31c637b960e47675d3b0924') in 0.005107 seconds
+  Import took 0.007451 seconds .
 
-========================================================================
-Received Import Request.
-  Time since last request: 3.585839 seconds.
-  path: Assets/Animation/Animators/New Animator Controller.controller
-  artifactKey: Guid(6127eee2815a74d31a480e2198a817f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animation/Animators/New Animator Controller.controller using Guid(6127eee2815a74d31a480e2198a817f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d5a16747f5b4955fb8c3b695bee258') in 0.373183 seconds
-  Import took 0.376260 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 35.596474 seconds.
-  path: Assets/Animation/Animators/JohnLemon.controller
-  artifactKey: Guid(6127eee2815a74d31a480e2198a817f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Animation/Animators/JohnLemon.controller using Guid(6127eee2815a74d31a480e2198a817f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '246f0b1fe37d8f5b68df35f0f2c3edf7') in 0.004440 seconds
-  Import took 0.008481 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002613 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.974 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1584 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 218.1 MB.
-System memory in use after: 218.1 MB.
-
-Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 2066.
-Total: 2.277137 ms (FindLiveObjects: 0.301948 ms CreateObjectMapping: 0.081194 ms MarkObjects: 1.829511 ms  DeleteObjects: 0.062826 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 6790.017269 seconds.
-  path: Assets/Scripts/PlayerMovement.cs
-  artifactKey: Guid(46450016038994d38bc51ae57d5bce2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlayerMovement.cs using Guid(46450016038994d38bc51ae57d5bce2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a45e160dfe5c3ccbfb25cf37d8691f1') in 0.353597 seconds
-  Import took 0.376602 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001624 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for OSXStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.932 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1584 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 223.4 MB.
-System memory in use after: 223.5 MB.
-
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2070.
-Total: 1.956856 ms (FindLiveObjects: 0.229129 ms CreateObjectMapping: 0.056767 ms MarkObjects: 1.593182 ms  DeleteObjects: 0.076846 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 5178.030252 seconds.
-  path: Assets/Scripts/PlayerMovement.cs
-  artifactKey: Guid(46450016038994d38bc51ae57d5bce2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlayerMovement.cs using Guid(46450016038994d38bc51ae57d5bce2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e5476b0867438d0f24314a6da5156d8') in 0.146082 seconds
-  Import took 0.192194 seconds .
-
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
