@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19042.867; Version 2009; 64bit' Language: 'en' Physical Memory: 12162 MB
+OS: 'Windows 10 Home; OS build 19042.867; Version 2009; 64bit' Language: 'en' Physical Memory: 32717 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,163 +11,273 @@ C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/hansm/Github/410-Assignment_2/Assignment_2
+C:/Users/Josh/Unity Projects/CIS 410/Assignment_2/410-Assignment_2/Assignment_2
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49980
-Successfully changed project path to: C:/Users/hansm/Github/410-Assignment_2/Assignment_2
-C:/Users/hansm/Github/410-Assignment_2/Assignment_2
+62015
+Successfully changed project path to: C:/Users/Josh/Unity Projects/CIS 410/Assignment_2/410-Assignment_2/Assignment_2
+C:/Users/Josh/Unity Projects/CIS 410/Assignment_2/410-Assignment_2/Assignment_2
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 58.47 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 35.55 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.1f1 (77a89f25062f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/hansm/Github/410-Assignment_2/Assignment_2/Assets
+[Subsystems] Discovering subsystems at path C:/Users/Josh/Unity Projects/CIS 410/Assignment_2/410-Assignment_2/Assignment_2/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
     Vendor:   
-    VRAM:     6081 MB
-    Driver:   23.20.16.4849
+    VRAM:     8043 MB
+    Driver:   27.21.14.6109
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56040
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56756
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003702 seconds.
+Registered in 0.001674 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 48.85 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 31.97 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.475 seconds
+- Completed reload, in  0.853 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005341 seconds.
+Registered in 0.002149 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000001DF78BFF010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF7870E020 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9E0C1020 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9D31B230 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9D31B230 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9D571010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9DEDE050 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.Advertisements.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9D59EA20 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF78888F50 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9E310070 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF784B2DF0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF77936EF0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9CE5C420 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9CE5C420 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9D2C6E40 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF7856E890 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9C972010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF789BAC00 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9D2C6E40 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF78BFF010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.Monetization.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF78467C50 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.983 seconds
+- Completed reload, in  0.643 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1620 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 148.7 MB.
-System memory in use after: 148.8 MB.
+Unloading 1622 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 149.7 MB.
+System memory in use after: 149.7 MB.
 
-Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2055.
-Total: 3.561800 ms (FindLiveObjects: 0.444100 ms CreateObjectMapping: 0.175600 ms MarkObjects: 2.785900 ms  DeleteObjects: 0.153300 ms)
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 2058.
+Total: 1.580800 ms (FindLiveObjects: 0.183000 ms CreateObjectMapping: 0.040900 ms MarkObjects: 1.286500 ms  DeleteObjects: 0.069500 ms)
 
 ========================================================================
 Received Import Request.
+  path: Assets/Models
+  artifactKey: Guid(5c22133398df5aa4eba6d956857390aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models using Guid(5c22133398df5aa4eba6d956857390aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2c3bf7f5af978876959c190bd57459f') in 0.007036 seconds
+  Import took 0.009394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.814325 seconds.
   path: Assets/Josh
   artifactKey: Guid(33a18b445985d09428e64f270240dc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Josh using Guid(33a18b445985d09428e64f270240dc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5055d69c5753be6cc604c6ac1b25070c') in 0.008941 seconds
-  Import took 0.014085 seconds .
+Start importing Assets/Josh using Guid(33a18b445985d09428e64f270240dc59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e74d74dafb3e0f6ca55c1da26fec0fe') in 0.005462 seconds
+  Import took 0.007788 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.299907 seconds.
-  path: Assets/Logan
-  artifactKey: Guid(ca4332c75401cea43b9a0fe1e6e484f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Logan using Guid(ca4332c75401cea43b9a0fe1e6e484f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d2b87cfce0802ade9daa1775a0072d') in 0.005677 seconds
-  Import took 0.009600 seconds .
+  Time since last request: 14.599318 seconds.
+  path: Assets/Josh/Gargoyle.prefab
+  artifactKey: Guid(199aceee0a9a92e4cbc620e17a65914b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Josh/Gargoyle.prefab using Guid(199aceee0a9a92e4cbc620e17a65914b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c020f937bfcff0d5842c9d81671e712') in 0.084236 seconds
+  Import took 0.086850 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 52.249823 seconds.
-  path: Assets/Scripts
-  artifactKey: Guid(4b32d296f22ef544caf49758d8111991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(4b32d296f22ef544caf49758d8111991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff0850821a7a9128ef395d7d78899716') in 0.003055 seconds
-  Import took 0.006377 seconds .
+  Time since last request: 45.197829 seconds.
+  path: Assets/Josh/Gargoyle.controller
+  artifactKey: Guid(0549195cce6fd7d4dadc33e536fd24cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Josh/Gargoyle.controller using Guid(0549195cce6fd7d4dadc33e536fd24cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b671f634c53ad2e73d95cba808848aaa') in 0.003494 seconds
+  Import took 0.005892 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.009260 seconds.
-  path: Assets/Scripts
-  artifactKey: Guid(4b32d296f22ef544caf49758d8111991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts using Guid(4b32d296f22ef544caf49758d8111991) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff0850821a7a9128ef395d7d78899716') in 0.004526 seconds
-  Import took 0.007840 seconds .
+  Time since last request: 16.778514 seconds.
+  path: Assets/Animation/Animation
+  artifactKey: Guid(16c12986779f71343a6e6759d132b35e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animation using Guid(16c12986779f71343a6e6759d132b35e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8ccf3c97a427f66416920e60a93375') in 0.005011 seconds
+  Import took 0.007414 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Animation/Animation
+  artifactKey: Guid(16c12986779f71343a6e6759d132b35e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/Animation using Guid(16c12986779f71343a6e6759d132b35e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f8ccf3c97a427f66416920e60a93375') in 0.001383 seconds
+  Import took 0.003100 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005156 seconds.
+Registered in 0.002300 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000001DDACCB77C0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9D6F2010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9CB07340 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9E2F4010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF78880F40 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9CDD5010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF7871D620 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.Advertisements.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9C996C20 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9CB07340 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF7830F030 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA063FBA0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA07E2AA0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9F521010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9D6F2010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF78468580 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA0A23020 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9CD81010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9E7EA020 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF78468580 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DDACCB77C0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.Monetization.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9FC610E0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.063 seconds
+- Completed reload, in  0.677 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.04 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1585 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 146.5 MB.
-System memory in use after: 146.6 MB.
+Unloading 1586 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.5 MB.
+System memory in use after: 150.6 MB.
 
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2060.
-Total: 3.546400 ms (FindLiveObjects: 0.287900 ms CreateObjectMapping: 0.105300 ms MarkObjects: 3.043100 ms  DeleteObjects: 0.107800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 22.502737 seconds.
-  path: Assets/Scripts/PlayerMovement.cs
-  artifactKey: Guid(46450016038994d38bc51ae57d5bce2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/PlayerMovement.cs using Guid(46450016038994d38bc51ae57d5bce2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beb8ac1ba0668813937d5feef71917ef') in 0.099661 seconds
-  Import took 0.103289 seconds .
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2069.
+Total: 1.913000 ms (FindLiveObjects: 0.300100 ms CreateObjectMapping: 0.069600 ms MarkObjects: 1.475200 ms  DeleteObjects: 0.067200 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005112 seconds.
+Registered in 0.002237 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.978 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1584 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 146.5 MB.
-System memory in use after: 146.6 MB.
-
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2063.
-Total: 4.276800 ms (FindLiveObjects: 0.386200 ms CreateObjectMapping: 0.182800 ms MarkObjects: 3.581100 ms  DeleteObjects: 0.124500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007001 seconds.
-Begin MonoManager ReloadAssembly
+Symbol file data-000001DF9CB09550 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9F499050 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9D558120 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9E2F4010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9D6F2010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9F226020 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9D558120 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.Advertisements.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF78869010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9D558120 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9F6BF010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA06406B0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFE4E48E00 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9F521010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9D2C0E30 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9EB3C010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9F4A72D0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9C972010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA0A45010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9EB3C010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9E6FAC20 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.Monetization.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9FC610E0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
@@ -176,174 +286,245 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.992 seconds
+- Completed reload, in  0.599 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1584 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 146.5 MB.
-System memory in use after: 146.5 MB.
-
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2066.
-Total: 3.258700 ms (FindLiveObjects: 0.310800 ms CreateObjectMapping: 0.123800 ms MarkObjects: 2.700600 ms  DeleteObjects: 0.120800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.004989 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
 Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.884 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1584 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 146.5 MB.
-System memory in use after: 146.6 MB.
+Unloading 1585 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.5 MB.
+System memory in use after: 150.6 MB.
 
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2069.
-Total: 4.587500 ms (FindLiveObjects: 0.363500 ms CreateObjectMapping: 0.233500 ms MarkObjects: 3.824800 ms  DeleteObjects: 0.162800 ms)
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2072.
+Total: 1.911500 ms (FindLiveObjects: 0.185300 ms CreateObjectMapping: 0.038800 ms MarkObjects: 1.627700 ms  DeleteObjects: 0.058100 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 1459.026735 seconds.
-  path: Assets/Scripts/GameEnding.cs
-  artifactKey: Guid(5e96997f65fd93c4a931c018fa360e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameEnding.cs using Guid(5e96997f65fd93c4a931c018fa360e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c1005e5959163cc44ddd8ef5b16a7ab') in 0.008700 seconds
-  Import took 0.013218 seconds .
+  Time since last request: 286.790762 seconds.
+  path: Assets/Josh/Observer.cs
+  artifactKey: Guid(40df10e46faf5dd4c9b6fc760e3446e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Josh/Observer.cs using Guid(40df10e46faf5dd4c9b6fc760e3446e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fc7e296ffdc04f64ad304f7c42f0548') in 0.014246 seconds
+  Import took 0.017671 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005635 seconds.
+Registered in 0.002011 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000001DF9FA72040 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9D621020 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9E0C1020 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9FB849B0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF78CF2080 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA114A8A0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9EC5A180 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.Advertisements.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF78B33190 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9E3F2040 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9FABF280 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA06411C0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA07E2AA0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9C972010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9D621020 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF78468580 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9F67B030 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9F0C0080 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9FFDDAC0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA007C0C0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9E7D6EE0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.Monetization.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFE581CE00 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.933 seconds
+- Completed reload, in  0.590 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1585 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 146.7 MB.
-System memory in use after: 146.8 MB.
-
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2073.
-Total: 4.830100 ms (FindLiveObjects: 0.547700 ms CreateObjectMapping: 0.222700 ms MarkObjects: 3.903700 ms  DeleteObjects: 0.153500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006524 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.069 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1585 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 146.6 MB.
-System memory in use after: 146.7 MB.
+Unloading 1586 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.5 MB.
+System memory in use after: 150.6 MB.
 
 Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2076.
-Total: 2.294300 ms (FindLiveObjects: 0.161200 ms CreateObjectMapping: 0.047300 ms MarkObjects: 2.008100 ms  DeleteObjects: 0.076900 ms)
+Total: 1.841700 ms (FindLiveObjects: 0.170000 ms CreateObjectMapping: 0.037300 ms MarkObjects: 1.577600 ms  DeleteObjects: 0.055700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002037 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file data-000001DF9F9E4F10 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9F99C860 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9E0C1020 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9E2F4010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF78CF2080 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA114A8A0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9F8E1C70 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.Advertisements.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA0559380 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9E3F2040 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9FABF280 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA063FBA0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA02E5E40 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF78B33190 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9F99C860 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9FAA96D0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9CEFC020 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA059BC80 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA06C4210 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9FAA96D0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA06D5D00 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.Monetization.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFE581F170 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.607 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1586 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.5 MB.
+System memory in use after: 150.6 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2079.
+Total: 1.518400 ms (FindLiveObjects: 0.155200 ms CreateObjectMapping: 0.034400 ms MarkObjects: 1.270300 ms  DeleteObjects: 0.057800 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 840.103367 seconds.
+  Time since last request: 307.690451 seconds.
+  path: Assets/Josh/Observer.cs
+  artifactKey: Guid(40df10e46faf5dd4c9b6fc760e3446e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Josh/Observer.cs using Guid(40df10e46faf5dd4c9b6fc760e3446e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0521ccfed7c990963bd502463274874a') in 0.003858 seconds
+  Import took 0.006107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.109452 seconds.
   path: Assets/Scripts/GameEnding.cs
   artifactKey: Guid(5e96997f65fd93c4a931c018fa360e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameEnding.cs using Guid(5e96997f65fd93c4a931c018fa360e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a41b973039be11c7b792491118f115a1') in 0.005511 seconds
-  Import took 0.008522 seconds .
+Start importing Assets/Scripts/GameEnding.cs using Guid(5e96997f65fd93c4a931c018fa360e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '413ff9a4873422cb4531ccf075fb143e') in 0.005430 seconds
+  Import took 0.007930 seconds .
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.005386 seconds.
+Registered in 0.002040 seconds.
 Begin MonoManager ReloadAssembly
+Symbol file data-000001DF9FA72040 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9F499050 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9CBD0030 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA1019010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9E318070 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Timeline.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA11490E0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA112F3E0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.Advertisements.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9F661010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9CB07340 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Postprocessing.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFE597D840 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA0AFD2F0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA07DB660 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Analytics.DataPrivacy.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9C972010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Cinemachine.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9F499050 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\com.unity.cinemachine.editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9FE05570 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Postprocessing.Runtime.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFA11442D0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFE5E45FD0 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DF9FAA8340 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFE5FD2010 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFE5CDB420 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEngine.Monetization.dll
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file data-000001DFE581EC60 doesn't match image C:\Users\Josh\Unity Projects\CIS 410\Assignment_2\410-Assignment_2\Assignment_2\Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll
+Symbol file LoadedFromMemory is not a mono symbol file
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.909 seconds
+- Completed reload, in  0.611 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1585 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 146.7 MB.
-System memory in use after: 146.8 MB.
-
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2079.
-Total: 3.709500 ms (FindLiveObjects: 0.347400 ms CreateObjectMapping: 0.153000 ms MarkObjects: 3.051600 ms  DeleteObjects: 0.155000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005389 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.241 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.94 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1585 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 146.7 MB.
-System memory in use after: 146.8 MB.
+Unloading 1586 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 150.6 MB.
+System memory in use after: 150.7 MB.
 
 Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2082.
-Total: 4.227500 ms (FindLiveObjects: 0.414000 ms CreateObjectMapping: 0.167200 ms MarkObjects: 3.512300 ms  DeleteObjects: 0.131300 ms)
+Total: 1.833800 ms (FindLiveObjects: 0.167000 ms CreateObjectMapping: 0.037500 ms MarkObjects: 1.565500 ms  DeleteObjects: 0.062900 ms)
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005561 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.006 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.89 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1585 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 146.7 MB.
-System memory in use after: 146.8 MB.
+Received Import Request.
+  Time since last request: 406.686412 seconds.
+  path: Assets/Scripts/GameEnding.cs
+  artifactKey: Guid(5e96997f65fd93c4a931c018fa360e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameEnding.cs using Guid(5e96997f65fd93c4a931c018fa360e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0810e9c9e0aa571402517d35f9c6385c') in 0.003886 seconds
+  Import took 0.006218 seconds .
 
-Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2085.
-Total: 3.275400 ms (FindLiveObjects: 0.363200 ms CreateObjectMapping: 0.141200 ms MarkObjects: 2.653200 ms  DeleteObjects: 0.114800 ms)
-
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
