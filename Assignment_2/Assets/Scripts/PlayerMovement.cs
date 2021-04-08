@@ -29,8 +29,8 @@ public class PlayerMovement : MonoBehaviour
         (horizontal, 0f);
         bool hasVerticalInput = !Mathf.Approximately
         (vertical, 0f);
-        bool isWalking = (hasVerticalInput ||
-        hasHorizontalInput);
+        bool isWalking = hasVerticalInput ||
+        hasHorizontalInput;
         m_Animator.SetBool("isWalking", isWalking);
 
         Vector3 desiredForward = Vector3.RotateTowards(
