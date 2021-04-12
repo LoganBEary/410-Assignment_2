@@ -28,7 +28,7 @@ public class DotProduct : MonoBehaviour
     }
     void showAlert(float dotProduct)
     {
-      if(dotProduct <= 3.5 && dotProduct >= -2.5)
+      if((dotProduct <= 3.5 && dotProduct > 1))
       {
         alertTxtObj.SetActive(true);
       }
