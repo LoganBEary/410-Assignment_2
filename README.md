@@ -4,7 +4,9 @@ Team Memebers: Hans Prieto, Logan Levitre, Joshua Fawcett
 ===============================================================
 Contributions:
 Logan Levitre: Player Characters Parts 1 and 2, and Dot Product gameplay element
+
 Hans Prieto: The Camera, Ending the Game, Audio, and Particle Effect
+
 Joshua Fawcett: Enemies Parts 1 and 2, and Linear Interpolation gameplay element
 
 *dot product - Using Triggers  to turn on a script which uses dot product to get the distance to the ghost in the bathtub.
