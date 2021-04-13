@@ -14,6 +14,9 @@ Joshua Fawcett: Enemies Parts 1 and 2, and Linear Interpolation gameplay element
 after activating the script, as the player gets close enough it will trigger an alert of !!! above the players head if getting to close to the tub.
 The trigger to turn on the script is in front of the door and the trigger to turn it off is in the walkway towards the patrolling ghost in the hall.
 
-*linear interpolation - 
+*linear interpolation - The linear interpolation feature was added by creating some eyes on the wall that disappear when the player is too far away
+and follow the player as they go past them.
+	- The eyes use linear interpolation in order to set the alpha of their color to make them fade
+        - The eyes also use linear interpolation to determine the position of the pupils within the eye when looking at the player
 
 *particle effect - Every time the player enters a doorway, it will spawn a black smoke beneath that doorway for approximately 5 seconds.
