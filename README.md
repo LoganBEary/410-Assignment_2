@@ -3,6 +3,7 @@
 Team Memebers: Hans Prieto, Logan Levitre, Joshua Fawcett
 ===============================================================
 Contributions:
+
 Logan Levitre: Player Characters Parts 1 and 2, and Dot Product gameplay element
 
 Hans Prieto: The Camera, Ending the Game, Audio, and Particle Effect
