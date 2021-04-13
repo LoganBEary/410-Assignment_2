@@ -2,6 +2,8 @@
 
 Team Memebers: Hans Prieto, Logan Levitre, Joshua Fawcett
 ===============================================================
+Note for Graders: You might have to go to Assets/Reimport All after pulling, because some stuff might be missing after pulling the repository.
+
 Contributions:
 
 Logan Levitre: Player Characters Parts 1 and 2, and Dot Product gameplay element
